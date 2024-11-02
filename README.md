@@ -32,7 +32,9 @@ Task 6️⃣: Delete branches “two” and “three” after merging them with 
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
 
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
- 
+
+
+7Task: Firstuful i forked and cloned teachers pepository. In task one i created a new branch "Student_name" and added 3 commits.in second task i merged branch 2 in branch 3 and rebased 3 to one , then maked a screenshot "2task" to show my work. In task 3 i Created a new branch called “dev-feature” from the branch "main" and added one commit. In task 5 i Resolved merge conflicts that will occur when merging “feature” back into “one”, and added a screenshot of the conflict resolution.In 
 
 
 

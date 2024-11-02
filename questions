@@ -2,3 +2,8 @@ What is the difference between switch and checkout?
 What does git merge do?
 What happens to the commit history after rebase and why?
 How to understand which branch is remote and which is local in the terminal?
+
+1.git switch is a simpler command specifically for switching branches, while git checkout serves multiple purposes, including switching branches and restoring files.
+2.git merge combines changes from one branch into another, integrating their commit histories.
+3.After a rebase, the commit history is rewritten to create a linear progression of commits, as it applies changes from the current branch on top of the target branch, effectively changing their parent commits.
+4.You can identify remote branches in the terminal by using git branch -r for remote branches and git branch for local branches, where remote branches are typically prefixed with the remote name

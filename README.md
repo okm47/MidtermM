@@ -34,7 +34,7 @@ Task 7️⃣: Describe what tasks were completed, what screenshots correspond to
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
 
 
-7Task: Firstuful i forked and cloned teachers pepository. In task one i created a new branch "Student_name" and added 3 commits.in second task i merged branch 2 in branch 3 and rebased 3 to one , then maked a screenshot "2task" to show my work. In task 3 i Created a new branch called “dev-feature” from the branch "main" and added one commit. In task 5 i Resolved merge conflicts that will occur when merging “feature” back into “one”, and added a screenshot of the conflict resolution.In 
+7Task: Firstuful i forked and cloned teachers pepository. In task one i created a new branch "Student_name" and added 3 commits.in second task i merged branch 2 in branch 3 and rebased 3 to one , then maked a screenshot "2task" to show my work. In task 4 i Created a new branch called “dev-feature” from the branch "main" and added one commit. In task 5 i Resolved merge conflicts that will occur when merging “feature” back into “one”, and added a screenshot of the conflict resolution.In task 3 i found commit where questions is and answered all questions.In task6 i Delete branches “two” and “three” after merging them with the main branch. Maked a screenshot of the result.In task 7 i Described what tasks were completed. in task 8 i Maked a pull request
 
 
 
